@@ -1,0 +1,12 @@
+{
+  "build": { 
+      "dockerfile": "Dockerfile"
+  },
+  "extensions": [
+      "ms-python.python"
+  ],
+  "settings": {
+      "workbench.preferredDarkColorTheme": "Solarized Dark",
+      "workbench.preferredLightColorTheme": "Solarized Light"
+  }
+}
